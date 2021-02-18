@@ -13,12 +13,12 @@ A web crawler based on Selenium
 
 ### 2.2. A CNIPA account
 
-You must have a account before run this web crawler
-
-And you can create a account from [here](http://pss-system.cnipa.gov.cn/sipopublicsearch/portal/uiregister-showRegisterPage.shtml, 'link')
+You must have a account before run this web crawler (Create a account from [here](http://pss-system.cnipa.gov.cn/sipopublicsearch/portal/uiregister-showRegisterPage.shtml 'link'))
 ```python
 driver = get_driver(username = "", password = "")
 ```
+
+And you need to fill the verification code into your jupyter notebook
 
 ### 2.2. Usage
 
