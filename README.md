@@ -8,7 +8,7 @@ A web crawler based on Selenium
 
 ### 2.1. Dependencies
 
-* FirefoxDriver (Already placed in repo)
+* [FirefoxDriver](https://github.com/mozilla/geckodriver/releases "link") (Or other web driver you want)
 * Selenium
 
 ### 2.2. A CNIPA account
